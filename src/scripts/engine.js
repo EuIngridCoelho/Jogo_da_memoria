@@ -71,6 +71,14 @@ function checkMatch() {
     openCards = [];
   
     if (document.querySelectorAll(".boxMatch").length === emojis.length) {
-      alert("Você venceu !");
+      alert("Você venceu !" + "\n" + "O seu tempo foi: " + state.values.currentTime + " segundos.");
+      clearInterval(state.actions.countUpTimerId);
+      playSound("win");
     }
   }
+
+  function playSound(audioName) {
+    let audio = new Audio(`./src/audios/${audioName}.m4a`);
+    audio.volume = 0.5;
+    audio.play();
+}
