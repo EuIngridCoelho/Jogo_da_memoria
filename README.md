@@ -11,7 +11,7 @@
 
 Este projeto tem como objetivo desenvolver as habilidades de HTML, CSS e JAVASCRIPT ampliadas durante o Bootcamp Potência Tech iFood - Desenvolvimento de Jogos.
 
-Jogo da memória com Emojis: o jogador precisa encontrar o par de cada emoji dentro de um tempo recorde de tempo.
+Jogo da memória com Emojis: o jogador precisa encontrar o par de cada emoji dentro de um espaço recorde de tempo.
 
 
 
