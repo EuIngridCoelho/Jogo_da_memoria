@@ -19,7 +19,7 @@ Jogo da memória com Emojis: o jogador precisa encontrar o par de cada emoji den
 ### Outros Jogos:
 | Diretório  | Página|
 | ------------- | ------------- |
-| [![Diretório Detona Ralph](https://img.shields.io/badge/Detone_Ralph-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EuIngridSouza/Game_Detona-Ralph)  | [![Detona Ralph](https://img.shields.io/badge/Detona_Ralph-black?style=for-the-badge&logoColor=white)](https://euingridsouza.github.io/Game_Detona-Ralph/)  |
+| [![Diretório Detona Ralph](https://img.shields.io/badge/Detona_Ralph-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EuIngridSouza/Game_Detona-Ralph)  | [![Detona Ralph](https://img.shields.io/badge/Detona_Ralph-black?style=for-the-badge&logoColor=white)](https://euingridsouza.github.io/Game_Detona-Ralph/)  |
 
 
 
